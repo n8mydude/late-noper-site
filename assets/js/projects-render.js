@@ -20,9 +20,6 @@ function buildProjectPanel(p) {
             <button type="button" class="book-btn book-next" aria-label="Next page">&#8250;</button>
           </div>
         </div>
-        <div class="pdf-feature">
-          <a class="btn btn-ghost" href="assets/projects/${p.pdf}" download>Download PDF</a>
-        </div>
       </div>`;
   }
   const cards = p.items.map(it => {

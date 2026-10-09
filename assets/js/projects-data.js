@@ -185,6 +185,36 @@ const PROJECTS_DATA = [
     "type": "image",
     "src": "graphic-design-06.jpg",
     "alt": "Album cover art of a figure diving toward a glowing green planet"
+   },
+   {
+    "type": "image",
+    "src": "graphic-design-14.jpg",
+    "alt": "Rainbow Connection single cover art for Late Noper featuring Jimmy Maddox"
+   },
+   {
+    "type": "image",
+    "src": "graphic-design-09.jpg",
+    "alt": "Steady the Wave album art with a figure standing in a dry lakebed"
+   },
+   {
+    "type": "image",
+    "src": "graphic-design-10.jpg",
+    "alt": "8-ball logo design with sparkle details"
+   },
+   {
+    "type": "image",
+    "src": "graphic-design-11.jpg",
+    "alt": "Steady the Wave logo over a desert lakebed photo"
+   },
+   {
+    "type": "image",
+    "src": "graphic-design-12.jpg",
+    "alt": "Steady the Wave concert poster with band photo"
+   },
+   {
+    "type": "image",
+    "src": "graphic-design-13.jpg",
+    "alt": "Nirvana-style parody poster design"
    }
   ]
  },
